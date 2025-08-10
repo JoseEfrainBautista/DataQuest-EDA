@@ -6,4 +6,5 @@ Incluye:
 * Estadísticas descriptivas.
 * Visualizaciones interactivas y gráficas personalizadas.
 *Uso de Python, Pandas, Matplotlib, Seaborn y Plotly.
+
 El objetivo es descubrir patrones, relaciones y tendencias en diferentes conjuntos de datos para generar insights que faciliten la toma de decisiones.
